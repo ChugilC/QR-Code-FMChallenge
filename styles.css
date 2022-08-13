@@ -16,7 +16,7 @@ body {
 
 .main-section {
   background-color: #fff;
-  width: 300px;
+  width: 350px;
   padding-bottom: 1rem;
   text-align: center;
   font-family: "Outfit", sans-serif;
@@ -25,7 +25,7 @@ body {
 }
 
 .image {
-  width: 300px;
+  width: 350px;
   padding: 20px;
 }
 
@@ -33,15 +33,18 @@ body {
   font-weight: 700;
   font-size: 1.5rem;
   line-height: 2rem;
-  margin: 0 0.3rem 0 0.3rem;
+  margin: 0 0.3rem 0.5rem 0.3rem;
+  padding: 0 1rem 0 1rem;
+  color: hsl(218, 44%, 22%);
 }
 
 .content p {
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 10px;
   line-height: 1.5rem;
-  margin: 0 0.3rem 0 0.3rem;
+  margin: 0 0.3rem 0.5rem 0.3rem;
+  color: hsl(220, 15%, 55%);
 }
 
 .attribution {
